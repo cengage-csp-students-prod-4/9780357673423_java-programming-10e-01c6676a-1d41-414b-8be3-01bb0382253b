@@ -41,3 +41,4 @@ jobs:
                 -d '{"Score": "${{ vars[env.SCORE_VARS_KEY] }}", "State": "${{ vars[env.STATE_VARS_KEY] }}", "SHA": "'${commit_hash}'"}' \
                 ${{ vars.SCOREURL }}
                     commit_hash=$(git rev-parse HEAD) # Get the latest commit hash
+

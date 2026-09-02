@@ -1,4 +1,7 @@
 {
   "language": "java",
-  "gui": true
+  "gui": true,
+  "shell": false,
+  "restrictedFiles": [],
+  "isFirstTimeSetup": false
 }
