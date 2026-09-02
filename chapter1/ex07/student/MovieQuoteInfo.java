@@ -1,1 +1,1 @@
-// Write your code here
+public class MovieQuoteIn
