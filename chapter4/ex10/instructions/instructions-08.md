@@ -1,0 +1,1 @@
+**Task 08:**  Included get methods for each data field in the `Couple` class.

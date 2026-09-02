@@ -1,0 +1,1 @@
+**Task #01:** Implemented the `Lease` class and its member variables.

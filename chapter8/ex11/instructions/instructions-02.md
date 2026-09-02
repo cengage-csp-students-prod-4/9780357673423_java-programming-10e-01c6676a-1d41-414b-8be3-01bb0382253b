@@ -1,0 +1,1 @@
+**Task 02:** The `StringSort` program accepts up to 15 `String` values.

@@ -1,0 +1,1 @@
+**Task 10:**  The `ElectricBlanket` class contains the set and get methods for the `settings` data field.

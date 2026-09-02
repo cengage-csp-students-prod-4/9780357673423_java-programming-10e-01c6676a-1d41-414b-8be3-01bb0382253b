@@ -1,0 +1,1 @@
+**Task 2:** The `BaseballGame` class contains the required data fields. 

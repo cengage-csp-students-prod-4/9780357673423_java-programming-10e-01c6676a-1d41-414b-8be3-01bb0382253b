@@ -1,0 +1,1 @@
+**Task 02:**  Declared the constant `QUARTS_IN_GALLONS`. 

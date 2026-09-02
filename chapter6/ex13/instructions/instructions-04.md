@@ -1,0 +1,1 @@
+**Task 04:**  The `Purchase` class contains the `setSaleAmount()` and `getSaleAmount()` methods. 

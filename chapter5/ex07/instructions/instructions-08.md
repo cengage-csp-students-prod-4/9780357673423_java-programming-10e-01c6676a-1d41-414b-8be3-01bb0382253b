@@ -1,0 +1,1 @@
+**Task 08:**  Defined the `isQualified()` method of the `TestJobApplicants` class. 

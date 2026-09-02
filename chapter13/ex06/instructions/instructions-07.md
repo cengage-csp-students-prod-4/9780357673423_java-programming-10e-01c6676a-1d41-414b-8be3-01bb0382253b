@@ -1,0 +1,1 @@
+**Task 7:**  The `ApartmentsLinkedList` program accepts user input to store in a `LinkedList`.

@@ -1,0 +1,1 @@
+**Task 5:**  The `PurchasesArrayListWithTotals` program accepts purchases and calculates the totals for each category.

@@ -1,0 +1,1 @@
+**Task 2:**  The `CommaPlacement` class accepts user input and adds commas between each `String` value.

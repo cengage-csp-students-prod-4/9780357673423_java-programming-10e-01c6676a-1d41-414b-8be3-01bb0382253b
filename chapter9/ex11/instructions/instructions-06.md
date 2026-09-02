@@ -1,0 +1,1 @@
+**Task 6:**  The `Blanket` class contains the set and get methods for the `material` data field. 

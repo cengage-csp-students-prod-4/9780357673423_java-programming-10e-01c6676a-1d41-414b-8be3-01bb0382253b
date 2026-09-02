@@ -1,0 +1,1 @@
+**Task 6:**  The `ThrowCourseException`  program accepts input for six `Course` objects and handles invalid input. 

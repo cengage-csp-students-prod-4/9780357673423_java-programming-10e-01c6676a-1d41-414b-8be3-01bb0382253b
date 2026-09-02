@@ -1,0 +1,1 @@
+**Task 02:**  The `PigLatin` program translates words that start with consonants to Pig Latin.

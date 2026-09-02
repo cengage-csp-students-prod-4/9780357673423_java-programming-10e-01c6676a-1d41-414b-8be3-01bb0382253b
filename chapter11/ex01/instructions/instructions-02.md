@@ -1,0 +1,1 @@
+**Task 02:**  The `FileStatistics` class displays the correct statistics on the provided file.

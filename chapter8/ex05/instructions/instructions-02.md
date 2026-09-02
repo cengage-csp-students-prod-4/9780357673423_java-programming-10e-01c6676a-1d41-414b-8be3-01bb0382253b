@@ -1,0 +1,1 @@
+**Task 02:**  The `Salesperson` class contains the `id` and `sales` data fields.

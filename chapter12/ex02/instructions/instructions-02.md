@@ -1,0 +1,1 @@
+**Task 2:**  The 'multiplication()' method returns the product of two integers without using multiplication.

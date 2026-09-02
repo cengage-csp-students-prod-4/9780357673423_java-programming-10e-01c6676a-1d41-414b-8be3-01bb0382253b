@@ -1,0 +1,1 @@
+**Task 07:**  The `ArrayMethodDemo` program accepts ten input numbers and displays the information provided by the five array methods.

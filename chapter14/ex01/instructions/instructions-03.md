@@ -1,0 +1,1 @@
+**Task 3:**  Created the `JBookQuote2` class. 

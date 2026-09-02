@@ -1,0 +1,1 @@
+**Task 02:**  The `convertToFeet` method converts inches to feet.

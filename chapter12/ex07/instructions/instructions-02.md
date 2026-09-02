@@ -1,0 +1,1 @@
+**Task 2:**  The `fibonacci()` method returns the correct number in the fibonacci sequence for the index provided.

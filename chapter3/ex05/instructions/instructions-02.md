@@ -1,0 +1,1 @@
+**Task 02:**  The `computeDiscount` method calculates a discount based on a student's GPA. 

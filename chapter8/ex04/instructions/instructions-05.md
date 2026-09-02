@@ -1,0 +1,1 @@
+**Task 05:**  The `displayLessThan()` method displays the numbers in the array less than the `limit` value.

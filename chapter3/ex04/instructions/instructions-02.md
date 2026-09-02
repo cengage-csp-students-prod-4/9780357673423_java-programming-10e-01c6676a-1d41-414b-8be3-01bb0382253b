@@ -1,0 +1,1 @@
+**Task 02:**  The `computePercent()` method displays the percent of the first argument of the second argument. 

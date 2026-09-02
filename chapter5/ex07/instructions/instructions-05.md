@@ -1,0 +1,1 @@
+**Task 05:**  Defined get methods for `hasWordSkill`, `hasSpreadsheetSkill`, `hasDatabaseSkill`, and `hasGraphicsSkill` data fields. 

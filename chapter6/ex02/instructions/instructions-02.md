@@ -1,0 +1,1 @@
+**Task 02:**  The `EvenEntryLoop` program accepts multiple input values and determines if they are even or odd. 

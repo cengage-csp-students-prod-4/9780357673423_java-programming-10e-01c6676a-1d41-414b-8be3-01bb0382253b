@@ -1,0 +1,1 @@
+**Task 04:**  Added get methods for each data field in the `Person` class. 

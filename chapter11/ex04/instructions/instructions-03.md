@@ -1,0 +1,1 @@
+**Task 03:**  The `WriteCustomerList` program accepts user input and writes the records to the *CustomerList.txt* file. 

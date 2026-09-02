@@ -1,0 +1,1 @@
+**Task 10:**  Created the `Triangle2` class. 

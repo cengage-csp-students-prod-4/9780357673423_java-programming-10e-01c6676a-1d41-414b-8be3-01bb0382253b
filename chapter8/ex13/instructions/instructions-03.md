@@ -1,0 +1,1 @@
+**Task 03:**  The `Recording` class contains the `artist` data field with set and get methods. 

@@ -1,0 +1,1 @@
+**Task 07:**  Created the get method for the `rent` data field.

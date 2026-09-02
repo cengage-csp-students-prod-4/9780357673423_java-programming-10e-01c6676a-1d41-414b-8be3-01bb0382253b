@@ -1,0 +1,1 @@
+**Task 02:**  The `DistanceFromAverage` program accepts `double` input values and displays each number's distance from the average of all input values.

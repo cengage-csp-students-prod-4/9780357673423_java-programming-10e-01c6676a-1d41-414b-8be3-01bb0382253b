@@ -1,0 +1,1 @@
+**Task 06:**  The `displayHigherThanAverage()` method displays the numbers higher than the average of all the numbers. 

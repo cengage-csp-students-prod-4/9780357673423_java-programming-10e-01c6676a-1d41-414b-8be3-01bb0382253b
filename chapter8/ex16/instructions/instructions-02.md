@@ -1,0 +1,1 @@
+**Task 02:**  The `Planets` program includes an `enum` declaration and the `.ordinal()` method.

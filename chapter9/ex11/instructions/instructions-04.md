@@ -1,0 +1,1 @@
+**Task 4:**  The `Blanket` class contains the set and get methods for the `size` data field.

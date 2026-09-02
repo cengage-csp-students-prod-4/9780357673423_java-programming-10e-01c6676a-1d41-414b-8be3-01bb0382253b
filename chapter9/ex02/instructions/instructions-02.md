@@ -1,0 +1,1 @@
+**Task 2:**  The `Candle` class contains the `color` data field with set and get methods.

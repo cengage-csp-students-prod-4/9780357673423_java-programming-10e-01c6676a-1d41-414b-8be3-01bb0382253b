@@ -1,0 +1,1 @@
+**Task 6:** The `InventionDemo` program accepts input details about an invention and displays them to the console.

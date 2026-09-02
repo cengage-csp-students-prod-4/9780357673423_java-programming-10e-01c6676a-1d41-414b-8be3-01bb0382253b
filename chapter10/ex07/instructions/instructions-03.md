@@ -1,0 +1,1 @@
+**Task 3:**  The `UsedCar` class catches any `UsedCarException` thrown during class construction. 

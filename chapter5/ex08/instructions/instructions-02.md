@@ -1,0 +1,1 @@
+**Task 02:**  Added data fields to the `Automobile` class. 

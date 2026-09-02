@@ -1,0 +1,1 @@
+**Task 03:**  Declared the variable `quartsNeeded`. 

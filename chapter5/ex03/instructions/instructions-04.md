@@ -1,0 +1,1 @@
+**Task 04:**  Created the `ShadyRestRoom2` class.

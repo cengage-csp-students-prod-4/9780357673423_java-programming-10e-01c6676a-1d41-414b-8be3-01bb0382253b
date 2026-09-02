@@ -1,0 +1,1 @@
+**Task 07:** The `PurchaseArray` program only accepts invoice numbers between **1000** and **8000** inclusive.

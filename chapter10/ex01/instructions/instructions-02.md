@@ -1,0 +1,1 @@
+**Task 2:**  The `BadSubscriptCaught` class catches `ArrayIndexOutOfBounds` exceptions thrown. 

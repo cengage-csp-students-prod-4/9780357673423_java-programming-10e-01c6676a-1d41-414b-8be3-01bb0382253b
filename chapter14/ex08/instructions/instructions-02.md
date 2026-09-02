@@ -1,0 +1,1 @@
+**Task 2:**  The `JInsurance` program contains four `JCheckBox` components.

@@ -1,0 +1,1 @@
+**Task 03:**  The `computeArea()` method returns the price needed to paint a room. 

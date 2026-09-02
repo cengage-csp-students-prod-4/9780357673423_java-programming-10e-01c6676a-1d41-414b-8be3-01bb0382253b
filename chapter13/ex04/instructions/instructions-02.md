@@ -1,0 +1,1 @@
+**Task 2:**  The `RemoveWords` program accepts user input and removes the designated `String` values.

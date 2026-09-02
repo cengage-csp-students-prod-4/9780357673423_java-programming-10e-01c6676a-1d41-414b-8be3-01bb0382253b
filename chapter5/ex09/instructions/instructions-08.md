@@ -1,0 +1,1 @@
+**Task 08:**  Created the `TestApartments` class. 

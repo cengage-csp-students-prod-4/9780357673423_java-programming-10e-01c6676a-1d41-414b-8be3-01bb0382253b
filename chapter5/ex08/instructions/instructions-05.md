@@ -1,0 +1,1 @@
+**Task 05:**  Defined the get and set methods for the `model` data field. 

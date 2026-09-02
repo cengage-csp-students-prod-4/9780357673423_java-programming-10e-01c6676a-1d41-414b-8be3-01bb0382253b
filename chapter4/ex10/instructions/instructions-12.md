@@ -1,0 +1,1 @@
+**Task 12:**  Included get methods for the `couple`, `weddingDate`, and `location` data fields of the `Wedding` class. 

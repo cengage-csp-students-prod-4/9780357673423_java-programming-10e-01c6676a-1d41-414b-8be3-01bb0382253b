@@ -1,0 +1,1 @@
+**Task 6:**  The `ScentedCandle` class extends the `Candle` class. 

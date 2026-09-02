@@ -1,0 +1,1 @@
+**Task 06:**  The `CustomerItemOrder` program displays the customer and item information for the corresponding input.

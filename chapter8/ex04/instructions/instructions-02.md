@@ -1,0 +1,1 @@
+**Task 02:**  The `display()` method displays the array values first to last.

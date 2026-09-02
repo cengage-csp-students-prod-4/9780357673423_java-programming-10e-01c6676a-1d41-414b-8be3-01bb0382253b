@@ -1,0 +1,1 @@
+**Task 7:**  The `Blanket` class contains the `toString()` method.

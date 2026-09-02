@@ -1,0 +1,1 @@
+**Task 5:**  The `Blanket` class contains the set and get methods for the `color` data field.

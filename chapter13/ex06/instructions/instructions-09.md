@@ -1,0 +1,1 @@
+**Task 9:**  The `ApartmentsLinkedList` implements `LinkedList.remove()` method.

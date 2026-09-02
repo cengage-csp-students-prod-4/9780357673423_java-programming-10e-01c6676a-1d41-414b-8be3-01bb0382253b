@@ -1,0 +1,1 @@
+**Task 4:**  The `Candle` class contains the `price` data field and a get method.

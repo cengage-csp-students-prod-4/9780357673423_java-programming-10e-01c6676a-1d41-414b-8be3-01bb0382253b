@@ -1,0 +1,1 @@
+**Task 03:**  The `CountSpaces2` program counts the number of spaces in a quote entered by the user. 

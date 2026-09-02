@@ -1,0 +1,1 @@
+**Task 12:**  The `ElectricBlanket` class contains the `toString()` method. 

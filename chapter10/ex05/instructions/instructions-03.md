@@ -1,0 +1,1 @@
+**Task 3:**  The `SqrtException` class catches any `ArithmeticException` thrown. 

@@ -1,0 +1,1 @@
+**Task 2:**  The `sum()` method returns the sum of all integers between two `int` values.

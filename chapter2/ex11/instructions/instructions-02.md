@@ -1,0 +1,1 @@
+**Task 02:**  The `ElectionStatistics` program accepts the votes received for three political parties and displays the percent of the total each party received.

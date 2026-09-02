@@ -1,0 +1,1 @@
+**Task 04:**  The `displaySum()` method displays the sum of all the numbers in the array. 

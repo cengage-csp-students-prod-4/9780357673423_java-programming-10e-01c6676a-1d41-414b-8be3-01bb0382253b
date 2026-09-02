@@ -1,0 +1,1 @@
+**Task 9:**  Created the `Sqaure2` class. 

@@ -1,0 +1,1 @@
+**Task 9:**  The `ElectricBlanket` class contains the required data fields.

@@ -1,0 +1,1 @@
+**Task 02:**  The `Palindrome` program indicates if a phrase is a palindrome or not. 

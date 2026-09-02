@@ -1,0 +1,1 @@
+**Task 02:**  Created the `isEven()` method to determine if an integer is an even number.

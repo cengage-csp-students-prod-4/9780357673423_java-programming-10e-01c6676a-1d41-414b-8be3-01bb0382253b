@@ -1,0 +1,1 @@
+**Task 09:**  The `TestApartments` class accepts user input for an `Apartment` object.

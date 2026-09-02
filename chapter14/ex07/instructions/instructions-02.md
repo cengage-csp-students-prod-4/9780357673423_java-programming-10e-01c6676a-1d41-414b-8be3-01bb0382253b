@@ -1,0 +1,1 @@
+**Task 2:**  The `JCapitals` program contains a `JComboBox` component.

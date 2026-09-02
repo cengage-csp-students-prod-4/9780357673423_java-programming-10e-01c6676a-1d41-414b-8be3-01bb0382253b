@@ -1,0 +1,1 @@
+**Task 05:**  Created the `ThrowCourseException` class. 

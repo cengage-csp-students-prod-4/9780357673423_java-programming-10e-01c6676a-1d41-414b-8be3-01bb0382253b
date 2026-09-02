@@ -1,0 +1,1 @@
+**Task 02:**  The `Purchase` class contains the correct data fields. 

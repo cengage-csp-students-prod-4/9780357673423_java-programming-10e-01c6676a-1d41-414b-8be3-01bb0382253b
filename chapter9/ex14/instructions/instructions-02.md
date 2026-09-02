@@ -1,0 +1,1 @@
+**Task 2:**  Created the `Machine` class.

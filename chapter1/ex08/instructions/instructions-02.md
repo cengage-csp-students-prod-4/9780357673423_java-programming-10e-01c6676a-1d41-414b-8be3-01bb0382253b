@@ -1,0 +1,1 @@
+**Task 02:**  The `TableAndChairs` program displays the correct number of `X` characters. 

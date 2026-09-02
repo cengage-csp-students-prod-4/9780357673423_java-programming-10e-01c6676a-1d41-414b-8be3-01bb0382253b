@@ -1,0 +1,1 @@
+**Task 02:**  The `InputCharacterInfo` program displays the correct information for the input character. 

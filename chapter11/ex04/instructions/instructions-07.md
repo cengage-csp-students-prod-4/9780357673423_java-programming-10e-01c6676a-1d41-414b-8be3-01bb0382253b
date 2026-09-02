@@ -1,0 +1,1 @@
+**Task 07:**  The `DisplaySelectedCustomer` program displays the record of the customer selected. 

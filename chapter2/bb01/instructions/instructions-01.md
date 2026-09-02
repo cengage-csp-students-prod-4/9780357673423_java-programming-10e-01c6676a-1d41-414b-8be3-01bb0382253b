@@ -1,0 +1,1 @@
+**Task 1:** The `BonusBug02` class compiles without error. 

@@ -1,0 +1,1 @@
+**Task 2:**  The `TryToParseDouble` class catches any `NumberFormatException` thrown.

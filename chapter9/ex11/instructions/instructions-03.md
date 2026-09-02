@@ -1,0 +1,1 @@
+**Task 3:**  The `Blanket` class constructor sets the default values for each data fields. 

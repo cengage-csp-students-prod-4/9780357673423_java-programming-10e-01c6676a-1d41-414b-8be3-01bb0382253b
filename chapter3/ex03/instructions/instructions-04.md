@@ -1,0 +1,1 @@
+**Task 04:**  The `displayNumberSquared()` method squares the argument.

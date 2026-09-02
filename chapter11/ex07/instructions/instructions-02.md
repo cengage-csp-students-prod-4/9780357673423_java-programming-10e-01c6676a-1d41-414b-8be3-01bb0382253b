@@ -1,0 +1,1 @@
+**Task #02:** {CDEV-10077} **Task 2:** The `StudentsStanding` program uses **ZZZ** to terminate the input stream.

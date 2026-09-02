@@ -1,0 +1,1 @@
+**Task 03:**  Created the `BarChart2` class. 

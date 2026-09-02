@@ -1,0 +1,1 @@
+**Task 1:**  Created the `GradeException` class. 

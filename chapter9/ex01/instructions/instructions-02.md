@@ -1,0 +1,1 @@
+**Task 2:**  The `Horse` class contains the `name` data field with set and get methods. 

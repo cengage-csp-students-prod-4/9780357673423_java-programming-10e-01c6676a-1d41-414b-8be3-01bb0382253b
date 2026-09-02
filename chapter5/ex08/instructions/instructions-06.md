@@ -1,0 +1,1 @@
+**Task 06:**  Defined the get and set methods for the `color` data field. 

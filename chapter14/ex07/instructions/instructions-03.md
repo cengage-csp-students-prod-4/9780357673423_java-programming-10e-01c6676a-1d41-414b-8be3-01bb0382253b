@@ -1,0 +1,1 @@
+**Task 3:**  The `JCapitals` class displays the capital of the selected country.

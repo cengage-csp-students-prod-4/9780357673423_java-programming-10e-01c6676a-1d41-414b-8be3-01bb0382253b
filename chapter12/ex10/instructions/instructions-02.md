@@ -1,0 +1,1 @@
+**Task 2:**  The `IndirectRecursionDemo` class contains the `method1()` and `method2()` methods.

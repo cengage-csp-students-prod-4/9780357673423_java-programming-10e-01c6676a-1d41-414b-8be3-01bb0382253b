@@ -1,0 +1,1 @@
+**Task 2:**  The `SqrtException` class catches any `Exception` during the `String` to `int` conversion.

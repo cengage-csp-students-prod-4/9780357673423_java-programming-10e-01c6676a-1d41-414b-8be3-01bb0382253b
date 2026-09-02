@@ -1,0 +1,1 @@
+**Task 10:**  The `ApartmentsLinkedList` program accepts user input and removes the correct `Apartment` value from the `LinkedList`.

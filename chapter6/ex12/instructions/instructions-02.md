@@ -1,0 +1,1 @@
+**Task 02:**  The `BarChart` program displays the chart data for each player's points scored. 

@@ -1,0 +1,1 @@
+**Task 03:**  Create the `SeekPosition2` class. 

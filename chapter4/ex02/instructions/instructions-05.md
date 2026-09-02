@@ -1,0 +1,1 @@
+**Task #05:** Implemented the `addPetFee()` method in the `Lease` class.

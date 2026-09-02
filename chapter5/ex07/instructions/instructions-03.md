@@ -1,0 +1,1 @@
+**Task 03:**  Defined a blank constructor with no arguments and an overloaded constructor for the `JobApplicant` class. 

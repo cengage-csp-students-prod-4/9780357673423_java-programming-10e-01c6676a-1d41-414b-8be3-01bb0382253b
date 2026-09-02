@@ -1,0 +1,1 @@
+**Task 02:**  The `FileSizeComparison` program displays the correct comparison data between a text file and a word-processing file.
