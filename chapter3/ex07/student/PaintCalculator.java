@@ -20,7 +20,6 @@ public class PaintCalculator {
     }
 
     public static double computeArea(double length, double width, double height) {
-        // Wall area = 2 * (length * height) + 2 * (width * height)
         double area = 2 * (length * height) + 2 * (width * height);
 
         double gallons = computeGallons(area);
