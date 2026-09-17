@@ -12,7 +12,7 @@ public class IncreasedProduction {
         int monthExceeded = -1;
 
         for (int month = 1; month <= 24; month++) {
-            current = current * 1.06;   // increase by 6%
+            current = current * 1.06;
             System.out.println("Month " + month + "     Predicted production is " + current);
 
             if (current > 10000.0 && monthExceeded == -1) {
