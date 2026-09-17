@@ -36,7 +36,7 @@ public class TestJobApplicants {
         System.out.println("Is applicant skilled in graphics?");
         System.out.print("    Enter 1 for yes or 2 for no >> ");
         int gfx = input.nextInt();
-        input.nextLine(); // clear newline
+        input.nextLine();
 
         boolean hasWord = (word == 1);
         boolean hasSheet = (sheet == 1);
