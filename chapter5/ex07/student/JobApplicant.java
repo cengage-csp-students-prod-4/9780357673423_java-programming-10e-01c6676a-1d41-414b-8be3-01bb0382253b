@@ -1,1 +1,57 @@
-// Write your code here
+public class JobApplicant {
+
+    private String name;
+    private String phone;
+    private boolean hasWordSkill;
+    private boolean hasSpreadsheetSkill;
+    private boolean hasDatabaseSkill;
+    private boolean hasGraphicsSkill;
+
+    // Blank constructor
+    public JobApplicant() {
+        name = "";
+        phone = "";
+        hasWordSkill = false;
+        hasSpreadsheetSkill = false;
+        hasDatabaseSkill = false;
+        hasGraphicsSkill = false;
+    }
+
+    // Overloaded constructor
+    public JobApplicant(String name, String phone,
+                        boolean hasWordSkill, boolean hasSpreadsheetSkill,
+                        boolean hasDatabaseSkill, boolean hasGraphicsSkill) {
+
+        this.name = name;
+        this.phone = phone;
+        this.hasWordSkill = hasWordSkill;
+        this.hasSpreadsheetSkill = hasSpreadsheetSkill;
+        this.hasDatabaseSkill = hasDatabaseSkill;
+        this.hasGraphicsSkill = hasGraphicsSkill;
+    }
+
+    // Get methods
+    public String getName() {
+        return name;
+    }
+
+    public String getPhone() {
+        return phone;
+    }
+
+    public boolean getHasWordSkill() {
+        return hasWordSkill;
+    }
+
+    public boolean getHasSpreadsheetSkill() {
+        return hasSpreadsheetSkill;
+    }
+
+    public boolean getHasDatabaseSkill() {
+        return hasDatabaseSkill;
+    }
+
+    public boolean getHasGraphicsSkill() {
+        return hasGraphicsSkill;
+    }
+}
