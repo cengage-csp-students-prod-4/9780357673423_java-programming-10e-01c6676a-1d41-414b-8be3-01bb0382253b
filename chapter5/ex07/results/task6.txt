@@ -1,0 +1,6 @@
+
+Status: FAILED!
+Test: Create the `TestJobApplicants` class.
+Reason: Unable to locate the `TestJobApplicants` class. TestJobApplicants
+Error : class java.lang.ClassNotFoundException
+- - - - - - - - - -
