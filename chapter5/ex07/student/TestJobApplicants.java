@@ -5,17 +5,10 @@ public class TestJobApplicants {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
 
-        // Create three JobApplicant objects using the blank constructor
-        JobApplicant app1 = new JobApplicant();
-        JobApplicant app2 = new JobApplicant();
-        JobApplicant app3 = new JobApplicant();
+        JobApplicant app1 = getData(input);
+        JobApplicant app2 = getData(input);
+        JobApplicant app3 = getData(input);
 
-        // Fill each applicant with user-entered data
-        app1 = getData(input);
-        app2 = getData(input);
-        app3 = getData(input);
-
-        // Display qualification results
         displayResult(app1);
         displayResult(app2);
         displayResult(app3);
@@ -43,15 +36,13 @@ public class TestJobApplicants {
         System.out.println("Is applicant skilled in graphics?");
         System.out.print("    Enter 1 for yes or 2 for no >> ");
         int gfx = input.nextInt();
-        input.nextLine(); // clear leftover newline
+        input.nextLine(); // clear newline
 
-        // Convert 1/2 into booleans
         boolean hasWord = (word == 1);
         boolean hasSheet = (sheet == 1);
         boolean hasDb = (db == 1);
         boolean hasGfx = (gfx == 1);
 
-        // Return a fully built JobApplicant object
         return new JobApplicant(name, phone, hasWord, hasSheet, hasDb, hasGfx);
     }
 
