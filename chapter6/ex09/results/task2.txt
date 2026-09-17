@@ -1,0 +1,12 @@
+
+Status: FAILED!
+Test: The `IncreasedProduction` program displays the anticipated worker output for the next 24 months with a 6% month over month increase.
+Reason: The simulated production level is 1000 parts. The worker's expected output for month 3 to be 1191.0159999999998 parts. Unable to find '1191.0159999999998' in the program's output.
+Error : class java.lang.AssertionError
+- - - - - - - - - -
+
+Status: FAILED!
+Test: The `IncreasedProduction` program displays the anticipated worker output for the next 24 months with a 6% month over month increase.
+Reason: The simulated production level is 5000 parts. The worker's expected output for month 13 to be 10664.641300728419 parts. Unable to find '10664.641300728419' in the program's output.
+Error : class java.lang.AssertionError
+- - - - - - - - - -
