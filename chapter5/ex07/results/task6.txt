@@ -1,6 +1,6 @@
 
-Status: FAILED!
-Test: Create the `TestJobApplicants` class.
-Reason: Unable to locate the `TestJobApplicants` class. TestJobApplicants
-Error : class java.lang.ClassNotFoundException
-- - - - - - - - - -
+Status: PASSED!
+Check: 1
+Test: 
+Reason: None
+Timestamp: 2026-09-17 02:46:28.698011
