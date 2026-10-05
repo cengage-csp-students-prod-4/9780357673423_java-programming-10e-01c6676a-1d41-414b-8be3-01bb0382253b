@@ -1,18 +1,6 @@
 
-Status: FAILED!
-Test: The `ValidateCheckDigits` class reads account numbers from the AcctNumsIn.txt file and indicates if they are valid or invalid.
-Reason: AcctNumsIn.txt (No such file or directory)
-Error : class java.io.FileNotFoundException
-- - - - - - - - - -
-
-Status: FAILED!
-Test: The `ValidateCheckDigits` class reads account numbers from the AcctNumsIn.txt file and indicates if they are valid or invalid.
-Reason: AcctNumsIn.txt (No such file or directory)
-Error : class java.io.FileNotFoundException
-- - - - - - - - - -
-
-Status: FAILED!
-Test: The `ValidateCheckDigits` class reads account numbers from the AcctNumsIn.txt file and indicates if they are valid or invalid.
-Reason: AcctNumsIn.txt (No such file or directory)
-Error : class java.io.FileNotFoundException
-- - - - - - - - - -
+Status: PASSED!
+Check: 1
+Test: 
+Reason: None
+Timestamp: 2026-10-05 02:30:30.390909

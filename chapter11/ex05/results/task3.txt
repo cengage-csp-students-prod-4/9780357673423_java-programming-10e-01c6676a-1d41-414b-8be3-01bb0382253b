@@ -1,18 +1,6 @@
 
-Status: FAILED!
-Test: The `ValidateCheckDigits` class reads valid account numbers from the AcctNumsIn.txt file and writes valid numbers to the AcctNumsOut.txt file.
-Reason: Unable to locate the AcctNumsOut.txt file. AcctNumsIn.txt (No such file or directory)
-Error : class java.io.FileNotFoundException
-- - - - - - - - - -
-
-Status: FAILED!
-Test: The `ValidateCheckDigits` class reads valid account numbers from the AcctNumsIn.txt file and writes valid numbers to the AcctNumsOut.txt file.
-Reason: Unable to locate the AcctNumsOut.txt file. AcctNumsIn.txt (No such file or directory)
-Error : class java.io.FileNotFoundException
-- - - - - - - - - -
-
-Status: FAILED!
-Test: The `ValidateCheckDigits` class reads valid account numbers from the AcctNumsIn.txt file and writes valid numbers to the AcctNumsOut.txt file.
-Reason: Unable to locate the AcctNumsOut.txt file. AcctNumsIn.txt (No such file or directory)
-Error : class java.io.FileNotFoundException
-- - - - - - - - - -
+Status: PASSED!
+Check: 1
+Test: 
+Reason: None
+Timestamp: 2026-10-05 02:30:32.724977
