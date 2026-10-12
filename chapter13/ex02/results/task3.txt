@@ -1,0 +1,6 @@
+
+Status: FAILED!
+Test: The `RemoveNumber` includes an iterator and iterator method calls.
+Reason: Unable to find an iterator and iterator method calls in the RemoveNumber.java file. null
+Error : class java.lang.AssertionError
+- - - - - - - - - -
