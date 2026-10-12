@@ -5,33 +5,16 @@ import java.util.Scanner;
 public class RemoveNumber {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
-        ArrayList<Integer> numbers = new ArrayList<>();
+        ArrayList<Integer> numbers = new ArrayList<Integer>();
 
         System.out.println("Enter integers or ZZZ to stop:");
-        while (input.hasNext()) {
-            String entry = input.next();
+        String entry = input.next();
 
-            if (entry.equalsIgnoreCase("ZZZ")) {
-                if (numbers.size() >= 4) {
-                    break;
-                }
-                System.out.println("Please enter at least four integers.");
-            } else {
-                numbers.add(Integer.parseInt(entry));
-            }
+        while (!entry.equalsIgnoreCase("ZZZ")) {
+            numbers.add(Integer.parseInt(entry));
+            entry = input.next();
         }
 
-        displayNumbers(numbers);
-
-        System.out.print("Enter a number to eliminate >> ");
-        int numberToRemove = input.nextInt();
-        numbers.remove(Integer.valueOf(numberToRemove));
-
-        displayNumbers(numbers);
-        input.close();
-    }
-
-    private static void displayNumbers(ArrayList<Integer> numbers) {
         System.out.println("Numbers:");
         Iterator<Integer> iterator = numbers.iterator();
 
@@ -39,5 +22,26 @@ public class RemoveNumber {
             System.out.print(iterator.next() + " ");
         }
         System.out.println();
+
+        System.out.print("Enter a number to eliminate >> ");
+        int numberToRemove = input.nextInt();
+
+        iterator = numbers.iterator();
+        while (iterator.hasNext()) {
+            if (iterator.next().intValue() == numberToRemove) {
+                iterator.remove();
+                break;
+            }
+        }
+
+        System.out.println("Numbers:");
+        iterator = numbers.iterator();
+
+        while (iterator.hasNext()) {
+            System.out.print(iterator.next() + " ");
+        }
+        System.out.println();
+
+        input.close();
     }
 }
