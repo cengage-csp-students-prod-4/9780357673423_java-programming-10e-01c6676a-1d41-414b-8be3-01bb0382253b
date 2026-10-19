@@ -1,12 +1,6 @@
 
-Status: FAILED!
-Test: The `JSandwich` program contains two drop down menu selectors.
-Reason: Unable to locate two `JComboBox` components. expected:<2> but was:<0>
-Error : class java.lang.AssertionError
-- - - - - - - - - -
-
-Status: FAILED!
-Test: The `JSandwich` class `JComboBox` components contain three options each.
-Reason: Each `JComboBox` component should contain three options. expected:<2> but was:<0>
-Error : class java.lang.AssertionError
-- - - - - - - - - -
+Status: PASSED!
+Check: 1
+Test: 
+Reason: None
+Timestamp: 2026-10-19 02:20:54.914774

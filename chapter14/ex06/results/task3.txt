@@ -1,12 +1,6 @@
 
-Status: FAILED!
-Test: The `JSandwich` class calculates the price for each sandwich.
-Reason: In this simulation, two difference sandwiches were selected. The total price should be different for each sandwich.
-Error : class java.lang.AssertionError
-- - - - - - - - - -
-
-Status: FAILED!
-Test: The `JSandwich` class calculates the price for each sandwich.
-Reason: In this simulation, two difference sandwiches were selected. The total price should be different for each sandwich.
-Error : class java.lang.AssertionError
-- - - - - - - - - -
+Status: PASSED!
+Check: 1
+Test: 
+Reason: None
+Timestamp: 2026-10-19 02:20:57.636549
